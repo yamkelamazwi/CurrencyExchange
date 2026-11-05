@@ -21,7 +21,7 @@ form.addEventListener("submit", async (event) => {
   let rate = data.rates[toCurrency.value];
   let convertedAmount = amountInput.value * rate;
 
-  results.textContent = `Convert ${amountInput.value} ${fromCurrency.value} = ${convertedAmount.toFixed(2)}${toCurrency.value}`;
+  results.textContent = `${amountInput.value} ${fromCurrency.value} = ${convertedAmount.toFixed(2)}${toCurrency.value}`;
 
 
   console.log(amountInput.value);
