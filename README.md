@@ -49,7 +49,7 @@ https://github.com/yamkelamazwi/CurrencyExchange
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./Screenshot 2026-11-05 175057.png" alt="currencyExchange Screenshot" width="800">
+  <img src="./Screenshot 2026-three.png" alt="currencyExchange Screenshot" width="800">
 </p>
 
 ## 💡 What I Learned
