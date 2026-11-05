@@ -46,6 +46,11 @@ https://github.com/yamkelamazwi/CurrencyExchange
 - Exchange Rate API
 
 ---
+## 📸 Screenshot
+
+<p align="center">
+  <img src="./Screenshot 2026-11-05 175057.png" alt="currencyExchange Screenshot" width="800">
+</p>
 
 ## 💡 What I Learned
 
