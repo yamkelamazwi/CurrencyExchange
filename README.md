@@ -74,11 +74,8 @@ Working through these challenges improved my understanding of API integration an
 
 ## 🎯 Future Improvements
 
-- Add a currency swap button
-- Display live exchange rates alongside conversion results
 - Save conversion history
 - Add favorite currencies
-- Add dark mode support
 - Improve accessibility
 - Display country flags for selected currencies
 
