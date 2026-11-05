@@ -32,3 +32,20 @@ Built to strengthen my understanding of working with APIs, asynchronous JavaScri
 ## 🛠️ TechnologiesPI
 - Async/Await
 - Exchange Rate API
+
+- 💡 What I Learned
+
+Through this project I gained experience with:
+
+Consuming data from external APIs
+Working with asynchronous JavaScript using async/await
+Handling form submissions
+Extracting and displaying API data
+Updating the DOM dynamically
+Error handling with try/catch
+Creating a responsive user interface
+🧠 Challenges
+
+One of the biggest challenges was understanding how to retrieve exchange rate data from the API and correctly calculate currency conversions based on the selected currencies.
+
+Handling asynchronous requests and displaying results dynamically also strengthened my JavaScript problem-solving skills.
