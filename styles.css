@@ -27,6 +27,14 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
+.creator {
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: -10px;
+  margin-bottom: 2rem;
+}
+
 form {
   display: flex;
   flex-direction: column;
