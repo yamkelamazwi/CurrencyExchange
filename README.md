@@ -1,51 +1,97 @@
 # 💱 Currency Exchange
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![API](https://img.shields.io/badge/API-Real%20Time%20Exchange%20Rates-green?style=for-the-badge)
+![API](https://img.shields.io/badge/API-Exchange%20Rates-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 📖 Overview
+A simple and responsive currency converter that uses real-time exchange rate data to convert between currencies instantly. Built with HTML, CSS, and JavaScript while working with external APIs, asynchronous programming, and dynamic DOM manipulation.
 
-Currency Exchange is a web application that converts currencies using real-time exchange rate data from an external API. Users can enter an amount, select a source currency and a target currency, and instantly receive the converted value.
-
-Built to strengthen my understanding of working with APIs, asynchronous JavaScript, form handling, and DOM manipulation.
+---
 
 ## 🚀 Live Demo
 
-🔗 Live Site: https://yamkelamazwi.github.io/CurrencyExchange/
+🔗 **Live Site:**  
+https://yamkelamazwi.github.io/CurrencyExchange/
+
+---
 
 ## 📂 Repository
 
-🔗 Source Code: https://github.com/yamkelamazwi/CurrencyExchange
+🔗 **Source Code:**  
+https://github.com/yamkelamazwi/CurrencyExchange
+
+---
 
 ## ✨ Features
 
 - Convert currencies in real time
-- Select from multiple currencies
-- User-friendly interface
+- Select source and target currencies
+- Fetch live exchange rate data from an external API
 - Instant conversion results
+- Responsive and user-friendly interface
 - Error handling for failed API requests
-- Responsive design
+- Clean and modern design
 
-## 🛠️ TechnologiesPI
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Fetch API
 - Async/Await
 - Exchange Rate API
 
-- 💡 What I Learned
+---
 
-Through this project I gained experience with:
+## 💡 What I Learned
 
-Consuming data from external APIs
-Working with asynchronous JavaScript using async/await
-Handling form submissions
-Extracting and displaying API data
-Updating the DOM dynamically
-Error handling with try/catch
-Creating a responsive user interface
-🧠 Challenges
+Building this project helped me strengthen my understanding of:
 
-One of the biggest challenges was understanding how to retrieve exchange rate data from the API and correctly calculate currency conversions based on the selected currencies.
+- Consuming data from third-party APIs
+- Fetching and handling JSON data
+- Using `async/await` for asynchronous operations
+- Handling form submissions with JavaScript
+- Working with user input and validation
+- Updating the DOM dynamically
+- Using `try...catch` to handle application errors
+- Creating responsive and interactive web applications
 
-Handling asynchronous requests and displaying results dynamically also strengthened my JavaScript problem-solving skills.
+---
+
+## 🧠 Challenges
+
+One of the biggest challenges was understanding how exchange rate data is structured and how to correctly calculate conversion values based on the selected currencies.
+
+Another challenge was handling asynchronous API requests and displaying conversion results only after the data had been successfully retrieved.
+
+Working through these challenges improved my understanding of API integration and helped me become more confident with asynchronous JavaScript.
+
+---
+
+## 🎯 Future Improvements
+
+- Add a currency swap button
+- Display live exchange rates alongside conversion results
+- Save conversion history
+- Add favorite currencies
+- Add dark mode support
+- Improve accessibility
+- Display country flags for selected currencies
+
+---
+
+## 👨‍💻 Author
+
+### Yamkela Mazwi
+
+Built as part of my JavaScript learning journey to gain hands-on experience with APIs, asynchronous programming, and dynamic web applications.
+
+**GitHub:** https://github.com/yamkelamazwi
+
+---
+
+⭐ If you found this project interesting, consider giving it a star!
